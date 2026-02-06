@@ -1,0 +1,1 @@
+# plugins-google-image-sitemap-feed-with-multisite-support
